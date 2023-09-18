@@ -1,0 +1,343 @@
+
+body, h1 {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    background-color: #EEEEEE; 
+    height: 5cm;
+    width: 36cm;
+
+}
+.logoifc {
+    width: 9cm;
+    height: 2.5cm;
+    margin-left: 1.5cm;
+}
+
+.botoes { 
+    width: 8.5cm;
+    height: 3cm;
+    margin-left: 12cm;
+    margin-top: 10px;
+}
+.barra {    
+    width: 36cm;
+    height: 1cm;
+    vertical-align: -20px;
+
+
+}
+
+.barra-verde {
+    margin-top: 0.3cm;
+    margin-left: 2cm ;
+    margin-right: 2cm;
+    background-color:green;
+    height: 45px;
+    border-radius: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+.texto { 
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    margin-left: 1.5cm;}
+
+.banner {
+    height: 4cm;
+    width: 31cm;
+    margin-top: 0.6cm;
+    margin-left: 2cm;
+    margin-right: 2cm;
+    margin-bottom: 1cm;
+}
+.noticias {
+    display: flex;
+    align-items: center;
+    float: left;
+}
+
+
+.jornalzinho { 
+    margin-left: 2cm;
+    max-width: 50%;
+}
+
+
+
+h1 {
+    margin-left: 2cm;
+    color: #444444;
+    margin-left: 20px;
+}
+
+.texto1{
+    margin-left: 20px;
+
+}
+.textos {
+    margin-left: 20px;
+}
+
+.vestibular{
+    display: flex;
+    align-items: flex-start;
+}
+
+.rua{
+    display: flex;
+    align-items: flex-start;
+}
+
+.vaquinhas{   
+
+    display: flex;
+    align-items: flex-start;
+    margin-top: -11cm;
+}
+
+.vacas {
+    height:4.5cm;
+    width: 6cm;
+    margin-top: 0.5cm;
+    margin-left: 2cm;
+    max-width: 50%;
+}
+h3 { 
+    color: green;
+    font-family:Arial, Helvetica, sans-serif;
+}
+p {
+    color: #444444;
+    font-size: small;
+    margin-right: 14cm;
+}
+.direçao { 
+    height:10cm;
+    width: 6cm;
+    margin-top: 0.5cm;
+    margin-left: 2cm;
+    max-width: 50%;
+    display: block;
+
+}
+.reitor {
+    display: flex;
+    align-items: flex-start;
+margin-top: -5.2cm;
+}
+
+.chapeu{
+    max-width: 50%;
+    margin-left: 15cm;
+}
+.cursos{
+    display: flex;
+    align-items: center;
+    float: right;
+    margin-right: 7cm;
+}
+.azulzinho{
+
+  max-width: 50%;
+    margin-left: 22cm;
+}
+
+.propaganda{
+    max-width: 50%;
+    margin-left: 22cm;
+    margin-top: -5cm;
+}
+
+.ifc{
+    height:6cm;
+    width: 6cm;
+    margin-top: 0.5cm;
+    margin-left: 2cm;
+    max-width: 50%
+}
+.texto3{
+    margin-left: 20px;
+
+}
+
+h4{
+    color: rgb(0, 0, 0);
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+.quadro1{
+    margin-top: 2cm;
+    margin-left: 2cm;
+ margin-right: 10cm;
+}
+
+.quadro2{
+    margin-top: -5cm;
+    margin-left: 13cm;
+ margin-right: 3cm;
+}
+
+.quadro3{
+margin-top: -3cm;
+margin-left: 24cm;
+margin-right: -12cm;
+}
+
+.biblioteca{
+
+    margin-top: 2cm;
+    margin-left: 3cm;
+}
+
+h2{ color: rgb(77, 78, 77);
+    font-family:Arial, Helvetica, sans-serif;
+
+
+}
+.setores{
+    background-color: #EEEEEE;
+    padding: 20px;
+
+}
+
+.s1{
+    margin-left: 2cm;
+ margin-right: 10cm;
+}
+
+.s2{
+    margin-top: -7cm;
+    margin-left: 9cm;
+ margin-right: 3cm;
+
+}
+
+.s3{
+    margin-top: -5cm;
+    margin-left: 16cm;
+ margin-right: -5.2cm ;
+
+}
+
+.s4{
+    margin-top: -6.5cm;
+    margin-left: 24cm;
+ margin-right: -12cm ;
+
+}
+
+.footer{
+    text-align: center;
+    background-color:#B94A48;
+}
+h5{
+    color: white;
+    font-size:small;
+    border-top: 3px solid #B94A48;
+    padding: 12px;
+}
+
+.titulo{
+    margin-top: 3cm;
+    margin-left: 2cm;
+}
+.noticia {
+    display: flex;
+    align-items: center;
+    float: left;
+    margin-top: 1cm;
+}
+.inform{
+    margin-left: 2cm;
+    margin-top: 1cm;
+}
+
+.textoo{
+    margin-left: 2cm;
+    margin-top: 1cm;
+    text-align: justify;
+    margin-right: -4cm;
+}
+
+.resultados{
+    margin-left: 2cm;
+    margin-top: -3cm;
+}
+
+.texto4{
+    margin-left: 2cm;
+    margin-right: -12cm;
+    text-align: justify;
+
+}
+.dire{
+    height:8cm;
+    width: 5cm;
+    margin-top: -7cm;
+    margin-left: 25cm;
+    max-width: 50%
+}
+.legenda{
+    margin-right: -10cm;
+    margin-left: 25cm;
+}
+
+.e1{
+height:5cm ;
+width:7cm ;
+}
+
+.e2{
+    height:5cm ;
+    width:7cm;
+    margin-left: 0.5cm;
+}
+
+ .e3{
+    height:5cm ;
+    width:7cm ;
+    margin-left: 0.5cm;
+
+}
+
+.e4{
+height:5cm ;
+width:7cm ;
+margin-left: 0.5cm;
+
+ }
+
+
+.imags{
+    margin-left: 2cm;
+    margin-right: 2cm;
+    margin-top: 1cm;
+}
+
+.littlevaca{
+height:5.5cm ;
+width:7.5cm ;
+margin-left: 2cm;
+margin-top: 0.5cm;
+}
+
+.texto6{
+    margin-left: 10cm;
+    margin-right: -12cm;
+    margin-top: -5.5cm;
+    text-align: justify;
+
+}
+
+.texto7{
+    margin-left: 2cm;
+    margin-right: -12cm;
+    margin-top: 1cm;
+    text-align: justify;
+}
